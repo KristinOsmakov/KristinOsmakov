@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
  </a>
  <a href="https://t.me//osmakov_k">
-  <img src="https://img.shields.io/badge/Gmail?logo=gmail&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=mail&logoColor=white"/>
  </a>
 </div>
-
