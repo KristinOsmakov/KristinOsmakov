@@ -13,6 +13,9 @@
     <img src="https://img.shields.io/badge/Telegram-00A3E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
   </a>
 </div>
-<div>
- <h1>Languages and tools</h1>
+<div id="stack" align="center">
+ <h3>Languages and tools</h3>
+ <div>
+  
+ </div>
 </div>
