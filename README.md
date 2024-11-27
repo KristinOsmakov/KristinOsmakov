@@ -16,6 +16,6 @@
 <div id="stack">
  <h3>Languages and tools</h3>
  <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" title="JS" width="40px" height="40px"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" title="JS" width="40px" height="40px" />&nbsp       
  </div>
 </div>
