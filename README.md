@@ -7,8 +7,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
  
- <a href="https://t.me//osmakov_k">
+ 
+</div>
+<div>
+  <a href="https://t.me//osmakov_k">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
 </a>
 </div>
-
