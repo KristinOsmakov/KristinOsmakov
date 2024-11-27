@@ -3,7 +3,7 @@
   <h3>Frontend developer from Minsk</h3>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/kristin-osmakov-3a2244254/">
+  <a href="https://www.linkedin.com/in/kristin-osmakov-3a2244254/" border-radius="5px">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:oskristinov@gmail.com">
