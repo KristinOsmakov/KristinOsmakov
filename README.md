@@ -26,7 +26,5 @@
   <a href="https://developer.mozilla.org/ru/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" title="css" width="40px" height="40px" /></a>&nbsp 
   <a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" title="html" width="40px" height="40px" /></a>&nbsp      
  </div>
- <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KristinOsmakov&theme=algolia" alt="GitHub Repos per Language" />
-</div>
+ 
 </div>
