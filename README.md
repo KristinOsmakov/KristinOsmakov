@@ -16,10 +16,13 @@
 <div id="stack">
  <h3>Languages and tools</h3>
  <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" title="JS" width="40px" height="40px" />&nbsp   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="react" width="40px" height="40px" />&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" title="typescript" width="40px" height="40px" />&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" title="next" width="40px" height="40px" />&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" title="redux" width="40px" height="40px" />&nbsp
-          
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" title="JS" width="40px" height="40px" />&nbsp   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-plain.svg" title="storybook" width="40px" height="40px" />&nbsp 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" title="css" width="40px" height="40px" />&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" title="html" width="40px" height="40px" />&nbsp         
  </div>
 </div>
