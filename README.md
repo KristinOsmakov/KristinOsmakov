@@ -18,6 +18,8 @@
  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" title="JS" width="40px" height="40px" />&nbsp   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="react" width="40px" height="40px" />&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" title="redux" width="40px" height="40px" />&nbsp
+          
           
  </div>
 </div>
