@@ -16,6 +16,8 @@
 <div id="stack">
  <h3>Languages and tools</h3>
  <div>
+  <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="react" width="40px" height="40px" /></a>&nbsp
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" title="typescript" width="40px" height="40px" /></a>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="react" width="40px" height="40px" />&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" title="typescript" width="40px" height="40px" />&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" title="next" width="40px" height="40px" />&nbsp
